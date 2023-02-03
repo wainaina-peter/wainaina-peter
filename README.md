@@ -48,8 +48,8 @@ My passion about tech has made me to make it a personal goal to be in the know a
 ## My socials are:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/le___Pierre"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/peter-wainaina-94b0351a8"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/pierre_wainaina"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/n_gigi_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 >
 
