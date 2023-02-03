@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Peter Wainaina.</h1>
-<h3 align="center">A Computer Science student based in Kenya.</h3>
+<h3 align="center">I am a fullstack developer, mostly use React in the front-end and use Typescript while at it, can also use JavaScript but mostly prefer TypeScript. I am a lover of python and consequently love using django for the backend. I am also a UX designer and a ML & AI enthusiast, not really a jack of all trades, but a lover of all things tech and being in the know of emerging trends and changes.</h3>
 
 
 ## 🙋‍♂️ A little about me:
