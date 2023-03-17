@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Peter Wainaina.</h1>
-<h3 align="center">I am a fullstack developer, mostly use React in the front-end and use Typescript while at it, can also use JavaScript but mostly prefer TypeScript. I am a lover of python and consequently love using django for the backend. I am also a UX designer and a ML & AI enthusiast, not really a jack of all trades, but a lover of all things tech and being in the know of emerging trends and changes.</h3>
+<h3 align="center">I am a Data Scientist, I love telling stories with data. I retrieve data using SQL, clean it, do exploratory data analysis on it to help stakeholders make data informed decisions. I also build and deploy machine learning models, mostly in the fields of finance, e-commerce and Natural Language Processing. I am a lover of python and consequently love using django for the backend. I also do front end web development using React, not really a jack of all trades, but a lover of all things tech and being in the know of emerging trends and changes.</h3>
 
 
 ## 🙋‍♂️ A little about me:
 
 
-- At the moment, I’m learning **MERN** because I aspire to be a fullstack developer
-- I also have a keen interest in **Data Science.**
+
+- I have a keen interest in **Data Science, especially Machine Learning.**
 
 -  I’m open to collaborating on **OpenSource Projects** as part of improving my skills
 
