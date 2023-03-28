@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Peter Wainaina.</h1>
-<h3 align="center">I am a Data Scientist, I love telling stories with data. I retrieve data using SQL, clean it, do exploratory data analysis on it to help stakeholders make data informed decisions. I also build and deploy machine learning models, mostly in the fields of finance, e-commerce and Natural Language Processing. I am a lover of python and consequently love using django for the backend. I also do front end web development using React, not really a jack of all trades, but a lover of all things tech and being in the know of emerging trends and changes.</h3>
+<h3 align="center">I am a Data Scientist, I love telling stories with data. I retrieve data using SQL, clean it, do exploratory data analysis on it to help stakeholders make data informed decisions. I also build and deploy machine learning models, mostly in the fields of finance, e-commerce and Natural Language Processing. I am a lover of python and frameworks built on it like Flask and FastAPI. I do front end web development using React, not really a jack of all trades, but a lover of all things tech and being in the know of emerging trends and changes.</h3>
 
 
 ## 🙋‍♂️ A little about me:
