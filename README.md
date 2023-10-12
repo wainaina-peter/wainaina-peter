@@ -17,7 +17,7 @@
 
 
 - 👨‍💻 I am a **Data Scientist** with a strong background in statistics and machine learning. I love exploring complex datasets and extracting meaningful insights to drive data-informed decisions.
-- Highly conversant with **SQL** <img src="https://img.icons8.com/?size=1x&id=1476&format=png"> and **Python** <img src="https://img.icons8.com/?size=1x&id=13441&format=png">.
+- ✔️ Highly conversant with **SQL** <img src="https://img.icons8.com/?size=1x&id=1476&format=png"> and **Python** <img src="https://img.icons8.com/?size=1x&id=13441&format=png">.
   
 - 📈 I retrieve data using SQL, clean it, perform exploratory data analysis on it to help stakeholders make data informed decisions.
 - 🚀 I build and deploy machine learning models, mostly in the fields of finance, e-commerce and Natural Language Processing.
