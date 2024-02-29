@@ -1,7 +1,7 @@
 
 
 
-<h1> Hello there 🙋‍♂️, I'm Peter Wainaina.</h1>
+<h1> Hello there 🙋‍♂️, my name is Peter Wainaina.</h1>
 <p>
 
 <a href = "https://www.linkedin.com/in/peter-wainaina-94b0351a8"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -17,12 +17,14 @@
 
 
 
-- 👨‍💻 I am a **Data Scientist** with a strong background in statistics and machine learning. I love exploring complex datasets and extracting meaningful insights to drive data-informed decisions.
+- 👨‍💻 I am a dynamic, collaborative and results-oriented **Software Engineer** with experience in full-stack development, biased on frontend interface design and implementation with ReactJS and NextJS.
+- I also have an avid interest in Machine Learning and I love building ML Models.
 - ✔️ Highly conversant with **SQL** <img src="https://img.icons8.com/?size=1x&id=1476&format=png"> and **Python** <img src="https://img.icons8.com/?size=1x&id=13441&format=png">.
   
-- 📈 I retrieve data using SQL, clean it, perform exploratory data analysis on it to help stakeholders make data informed decisions.
+- 📈 I design lo-fi and hi-fi prototypes in Figma and implement the designs using Javascript frameworks like React JS, NEXT JS.
+- 👨‍💻 I write RESTful API endpoints mostly using python frameworks loke Flask and FastAPI.
 - 🚀 I build and deploy machine learning models, mostly in the fields of finance, e-commerce and Natural Language Processing.
-- 🧩 I am a lover of python and frameworks built on it like Flask and FastAPI.
+- 🧩 I am a strong communicator and team player with excellent problem-solving skills, adaptability to changing environments and a continuous learning mindset.
 
 
   
