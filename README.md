@@ -33,7 +33,7 @@
 - 📫 My email is **wainaina.pierre@gmail.com**
 
 
-####  I strive to unravel the hidden patterns within complex datasets. With a commitment to continuous learning and a drive to make a positive impact, I am dedicated to transforming data into actionable solutions. Let's connect and embark on a data-driven journey.
+#### I have previously demonstrated success in the development and maintenance of web applications, resulting in substantial improvements in application responsiveness, user engagement metrics, and project alignment with stakeholder expectations.
 
 
 
