@@ -1,4 +1,4 @@
-![datascientist22](https://github.com/wainaina-peter/wainaina-peter/assets/80960028/39223a78-ebd9-4c22-ac2c-0f45a88d99a6)
+
 
 
 <h1> Hello there 🙋‍♂️, I'm Peter Wainaina.</h1>
